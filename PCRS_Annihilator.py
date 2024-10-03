@@ -1,11 +1,12 @@
 #Designed and Engineered by samsep10l --fsociety
+
 from openai import OpenAI
 import os
 import json
 from Scrape_PCRS import get_formatted_questions
 from dotenv import load_dotenv
-
 load_dotenv()
+
 
 def main():
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -32,6 +33,7 @@ def main():
         for question_title, question_content in formatted_questions:
             print(f"Processing question: {question_title}")
             # Get the assistant's answer
+            print(f"Question Content: {question_content}")
             answer = process_pcrs_question(client, assistant_id, question_content)
             if answer:
                 # Write the question title and the answer to the file
