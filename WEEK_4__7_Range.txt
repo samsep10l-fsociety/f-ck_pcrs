@@ -1,0 +1,207 @@
+7 - range #1:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 5)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #2:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 3)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #3:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 6)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #4:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 19)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #5:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(2, 4)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #6:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(2, 8)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #7:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(4, 8)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #8:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(218, 223)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #9:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(-5, -1)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #10:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(-3, 3)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #11:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(-18, 174)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #12:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 8, 2)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #13:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 8, 2)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #14:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(2, 12, 2)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #15:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 10, 2)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #16:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(1, 10, 3)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #17:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(0, 41, 10)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #18:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(6)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #19:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "print(list(range(5)))"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #20:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "numbers = list(range(6))\nprint(numbers)"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #21:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "numbers = list(range(9))\nprint(numbers)"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #22:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "numbers = list(range(9))\nprint(numbers)"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
+7 - range #23:
+ANSWER:
+{
+  "multiple_choice_answer": [],
+  "completed_code": "numbers = list(range(9))\nprint(numbers)"
+}
+
+#Designed and Engineered by samsep10l --fsociety
+
