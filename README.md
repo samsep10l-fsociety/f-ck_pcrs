@@ -8,3 +8,7 @@ Remember, consequences are like gravity—inevitable.
 So if you find yourself in a sticky situation because of how you used this code, don't come knocking on my door. 
 I'm not liable for any mischief you get into. 
 Use wisely and responsibly.
+
+
+Next Patch Scheduled on 2024 Oct 5th-7th.
+Stay tuned.
